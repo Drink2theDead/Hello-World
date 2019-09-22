@@ -1,0 +1,25 @@
+This file originated in VSCode
+
+High Level Definitions
+Repository - Container for a project
+Branch - Work on different versions in a repository
+Commit  - Saving Changes - Each commit is a separate unit of change that can be rolled back
+Pull/Pull Request - Proposing changes to another branch like master
+Merge - Push changes from pull into another branch like master
+
+High level workflow
+1. Create repository, put any existing code in the master branch
+2. Create a branch to work on changes
+3. Make changes in the branch with commits
+4. Open a pull request to have commits reviewed
+5. Deploy from the branch for testing changes
+6. Merge changes from branch into master, taking the changes into production.
+
+VS Code notes
+1. Commits are local, they arent published to Github until a sync is performed
+2. Each commit is a point in time that can be rolled back. They dont have to occur every single time the file is changed.
+    Only perform after a series of changes have been made.
+Process for Adding a New File in VS Code
+1. Create file
+2. 
+
