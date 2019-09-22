@@ -18,7 +18,10 @@ High level workflow
 VS Code notes
 1. Commits are local, they arent published to Github until a sync is performed
 2. Each commit is a point in time that can be rolled back. They dont have to occur every single time the file is changed.
-    Only perform after a series of changes have been made.
+    Only perform after a series of changes have been made. Commits act as cloud backups. 
+    Good idea to commits such that you don't lose work if the local copy gets corrupted.
+
+Testing - The pull and merge to master were succesful. These are additional updates as we continue woorking on the feature branch updates.
 Process for Adding a New File in VS Code
 1. Create file
 2. 
