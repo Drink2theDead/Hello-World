@@ -15,6 +15,10 @@ High level workflow
 5. Deploy from the branch for testing changes
 6. Merge changes from branch into master, taking the changes into production.
 
+VS Code notes
+1. Commits are local, they arent published to Github until a sync is performed
+
 Process for Adding a New File in VS Code
 1. Create file
+2. 
 
